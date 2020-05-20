@@ -1,7 +1,4 @@
-# eastbaycode
 
-Students coding from a browser
-Bhavik was here
-Hien was here
-Xinyi was here
-Bansari was here
+EAST BAY CODE 
+
+Python Web application using Flask, MySQL, Docker, Git
